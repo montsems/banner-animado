@@ -39,11 +39,11 @@ body{
 
 @keyframes estrellas{
 	
-	0%{visibility: visible; top:200px ;width: 20%; opacity: 0.1}
-	25%{visibility: visible;top:150px; width: 40%opacity: 0.2}
-	50%{visibility: visible; top:100px; width: 60%;opacity: 0.3}
-	75%{visibility: visible; top:50px; width: 80%;opacity: 0.4}
-	100%{visibility: visible; top:0px; width: 100%;opacity: 0.5}
+	0%{visibility: visible; top:200px ;width: 20%; opacity: 0.2}
+	25%{visibility: visible;top:150px; width: 40%opacity: 0.4}
+	50%{visibility: visible; top:100px; width: 60%;opacity: 0.6}
+	75%{visibility: visible; top:50px; width: 80%;opacity: 0.8}
+	100%{visibility: visible; top:0px; width: 100%;opacity: 1}
 	
 }
 
@@ -55,7 +55,7 @@ body{
 	animation-delay: 7s;
 	animation-timing-function: linear;
 	position: absolute;
-	top:25px;
+	top:15px;
 	left: 210px;
 
 }
